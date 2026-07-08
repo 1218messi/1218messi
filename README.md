@@ -19,9 +19,6 @@ I focus on **post-quantum cryptography and cryptography research**, alongside da
 ### Personal Interests
 In spare time, I enjoy badminton, running, table tennis and spending time with puppies.
 
-### Research Achievement
-- Developed **HOXT**: An anti-quantum dynamic searchable encryption scheme.
-
 ### Connect
 - GitHub: https://github.com/Estella315
 
